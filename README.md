@@ -1,6 +1,6 @@
 # PolysemyTheories
 All resources are published under the CC-BY 4.0 licence (https://creativecommons.org/licenses/by/4.0/).\
-Copyright (c) 2020, Francis Bond, Marek Maziarz and Ewa Rudnicka. All rights reserved.\
+Copyright (c) 2020, Francis Bond, Marek Maziarz and Ewa Rudnicka. All rights reserved.
 
 Description of resources:
 
@@ -15,7 +15,7 @@ Description: The presented data were obtained through merging information on 25 
     distMW - Dijkstra's distance calculated on Merriam-Webster graph\
     distOpti - averaged distance\
     syn1 - synset identifier in WordNet 3.0 for the first sense\
-    syn2 - synset identifier in WordNet 3.0 for the second sense\
+    syn2 - synset identifier in WordNet 3.0 for the second sense
 
 
 2) Mapping files
@@ -28,7 +28,7 @@ Description: The presented data were obtained through merging information on 25 
     MWsense - a target sense from Merriam-Webster\
     EG - an etymology group\
     sup - a superordinate sense number\
-    subno - a subordinate sense number\
+    subno - a subordinate sense number
 
 3) No POS split files
 
@@ -42,7 +42,7 @@ Description: The presented data were obtained through merging information on 25 
     "comparison" - these files contain a comparison between dictionaries and joint polysemy nets for 25 sample words\
     "joint-polysemy-nets" - these files comprise sense edges from joint polysemy networks\
     "25words" - only nets for 25 sample words\
-    "allWN" - all polysemy nets for WordNet polysemous words\
+    "allWN" - all polysemy nets for WordNet polysemous words
     
     3a) Comparison files\
     Symbols:\
@@ -52,7 +52,7 @@ Description: The presented data were obtained through merging information on 25 
     distLEX - distances calculated on the Lexico graph\
     distMW - distances calculated on the Merriam-Webster graph\
     distOpti - merged measure\
-    distances - distances calculated on joint polysemy networks\
+    distances - distances calculated on joint polysemy networks
 
 
     3b) Polysemy network files\
@@ -60,7 +60,7 @@ Description: The presented data were obtained through merging information on 25 
     lemma - base word form\
     syn1, syn2 - WordNet 3.0 synset identifiers\
     dist - distance calculated on WordNet graph (the shortest path length)\
-    sim - similarity measure calculated as the inverse of the squared dist measure plus one, i.e., sim = 1/(dist^2+1)\
+    sim - similarity measure calculated as the inverse of the squared dist measure plus one, i.e., sim = 1/(dist^2+1)
 
 
 4) POS split files
