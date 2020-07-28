@@ -1,5 +1,5 @@
 # PolysemyTheories
-All resources are published under the CC-BY 4.0 licence (https://creativecommons.org/licenses/by/4.0/).
+All resources from the PolysemyTheories repository are published under the CC-BY 4.0 licence (https://creativecommons.org/licenses/by/4.0/).
 Copyright (c) 2020, Francis Bond, Marek Maziarz and Ewa Rudnicka. All rights reserved.
 
 List of resources:
