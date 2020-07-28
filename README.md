@@ -5,7 +5,7 @@ Copyright (c) 2020, Francis Bond, Marek Maziarz and Ewa Rudnicka. All rights res
 List of resources:
 
 1) LEX-MW-merged-graph-distances.txt
-    Description: The presented data were obtained through merging information on 25 sample words from two online English dictionaries (Lexico, www.lexico.com, and Merriam-Webster, www.merriam-webster.com). Macro- and microstructures from the dictionaries were manually transformed into graphs, then distances between pairs of WordNet senses in each graphs were calculated. We present only the distance information.
+Description: The presented data were obtained through merging information on 25 sample words from two online English dictionaries (Lexico, www.lexico.com, and Merriam-Webster, www.merriam-webster.com). Macro- and microstructures from the dictionaries were manually transformed into graphs, then distances between pairs of WordNet senses in each graphs were calculated. We present only the distance information.
 
     Symbols:
     lemma - is a sampled word
