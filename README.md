@@ -7,28 +7,28 @@ List of resources:
 1) LEX-MW-merged-graph-distances.txt
 Description: The presented data were obtained through merging information on 25 sample words from two online English dictionaries (Lexico, www.lexico.com, and Merriam-Webster, www.merriam-webster.com). Macro- and microstructures from the dictionaries were manually transformed into graphs, then distances between pairs of WordNet senses in each graphs were calculated. We present only the distance information.
 
-    Symbols:
-    lemma - is a sampled word
-    sense1 - first sense from a given pair
-    sense2 - second sense from a given pair
-    distLEX - Dijkstra's distance calculated on Lexico graph
-    distMW - Dijkstra's distance calculated on Merriam-Webster graph
-    distOpti - averaged distance
-    syn1 - synset identifier in WordNet 3.0 for the first sense
-    syn2 - synset identifier in WordNet 3.0 for the second sense
+    Symbols:\
+    lemma - is a sampled word\
+    sense1 - first sense from a given pair\
+    sense2 - second sense from a given pair\
+    distLEX - Dijkstra's distance calculated on Lexico graph\
+    distMW - Dijkstra's distance calculated on Merriam-Webster graph\
+    distOpti - averaged distance\
+    syn1 - synset identifier in WordNet 3.0 for the first sense\
+    syn2 - synset identifier in WordNet 3.0 for the second sense\
 
 
 2) Mapping files
 
-    Symbols:
-    PWNsynset - mapped WordNet sense
-    choiceE - the choice of the E annotator
-    choiceM - the choice of the M annotator (they are the same after the third phase of annotation process)
-    LEXsense - a target sense from Lexico
-    MWsense - a target sense from Merriam-Webster
-    EG - an etymology group
-    sup - a superordinate sense number
-    subno - a subordinate sense number
+    Symbols:\
+    PWNsynset - mapped WordNet sense\
+    choiceE - the choice of the E annotator\
+    choiceM - the choice of the M annotator (they are the same after the third phase of annotation process)\
+    LEXsense - a target sense from Lexico\
+    MWsense - a target sense from Merriam-Webster\
+    EG - an etymology group\
+    sup - a superordinate sense number\
+    subno - a subordinate sense number\
 
 3) No POS split files
 
