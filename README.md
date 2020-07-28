@@ -2,7 +2,7 @@
 All resources are published under the CC-BY 4.0 licence (https://creativecommons.org/licenses/by/4.0/).\
 Copyright (c) 2020, Francis Bond, Marek Maziarz and Ewa Rudnicka. All rights reserved.\
 
-Description of resources:\
+Description of resources:
 
 1) LEX-MW-merged-graph-distances.txt\
 Description: The presented data were obtained through merging information on 25 sample words from two online English dictionaries (Lexico, www.lexico.com, and Merriam-Webster, www.merriam-webster.com). Macro- and microstructures from the dictionaries were manually transformed into graphs, then distances between pairs of WordNet senses in each graph were calculated. We present only the distance information.
